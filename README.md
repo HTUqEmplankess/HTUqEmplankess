@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HTUqEmplankess
+- 👋 Hi, I’m Puth @HTUqEmplankess
 - 👀 I’m interested in Programming C# C++
-- 🌱 I’m currently learning C++// POSN Samsen Computer (Dek 66)
+- 🌱 I’m currently learning C++// (Dek 66)
 - 💞️ I’m looking to collaborate on ...// not for now
 - 📫 How to reach me IG:htuq._.puth
 
