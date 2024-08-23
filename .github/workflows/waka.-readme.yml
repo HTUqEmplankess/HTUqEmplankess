@@ -9,7 +9,7 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Waka Readme
     runs-on: ubuntu-latest
     steps:
         # this action name
