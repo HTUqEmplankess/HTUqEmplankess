@@ -1,5 +1,11 @@
+# HTUq
 - 👋 Hi, I’m Puth @HTUqEmplankess
-- 📫 How to reach me IG:htuq._.puth
+- 📫 How to reach me via (IG:htuq._.puth)[https://www.instagram.com/htuq._.puth]
+
+
+
+
+
 
 <!---
 HTUqEmplankess/HTUqEmplankess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
