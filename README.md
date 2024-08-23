@@ -16,7 +16,11 @@
 - 📃 some part of my project
 - 🔑 LOG-IN with GitHub ????
 <!--START_SECTION:waka-->
-waka
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
