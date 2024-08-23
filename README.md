@@ -1,8 +1,7 @@
 # HTUq
 - 👋 Hi, I’m Puth @HTUqEmplankess
 - 📫 How to reach me via [IG:htuq.\_.puth](https://www.instagram.com/htuq.\_.puth)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ![HTUq](https://github.com/user-attachments/assets/af1f352e-3515-4dea-9148-b44c634a1f5c)
 
@@ -16,6 +15,10 @@
 - 👻 ghost
 - 📃 some part of my project
 - 🔑 LOG-IN with GitHub ????
+<!--START_SECTION:waka-->
+- waka
+<!--END_SECTION:waka-->
+
 
 
 
