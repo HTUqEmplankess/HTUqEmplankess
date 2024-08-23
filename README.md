@@ -1,6 +1,8 @@
 # HTUq
 - 👋 Hi, I’m Puth @HTUqEmplankess
-- 📫 How to reach me via (IG:htuq._.puth)[https://www.instagram.com/htuq._.puth]
+- 📫 How to reach me via [IG:htuq.\_.puth](https://www.instagram.com/htuq.\_.puth)
+
+
 
 
 
